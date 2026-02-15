@@ -1,0 +1,43 @@
+================================================================================
+MARKET CAP ANALYSIS - EXECUTIVE SUMMARY
+================================================================================
+
+DATASET OVERVIEW
+--------------------------------------------------------------------------------
+Total Companies: 5,000
+Total Market Cap: $128.55 Trillion
+Countries Represented: 68
+
+TOP 5 COMPANIES
+--------------------------------------------------------------------------------
+1. NVIDIA                         $4.14T (USA)
+2. Microsoft                      $3.77T (USA)
+3. Apple                          $3.55T (USA)
+4. Alphabet (Google)              $3.02T (USA)
+5. Amazon                         $2.45T (USA)
+
+MARKET CONCENTRATION
+--------------------------------------------------------------------------------
+Top  10 companies control: 19.27% of global market cap
+Top  50 companies control: 32.41% of global market cap
+Top 100 companies control: 40.51% of global market cap
+
+TRILLION-DOLLAR CLUB
+--------------------------------------------------------------------------------
+Number of companies: 11
+Combined value: $25.84T
+
+GEOGRAPHIC DISTRIBUTION (Top 5 Countries)
+--------------------------------------------------------------------------------
+1. USA            : $ 66.94T (52.07%) - 1620 companies
+2. China          : $ 10.85T ( 8.44%) - 360 companies
+3. Japan          : $  6.02T ( 4.68%) - 377 companies
+4. India          : $  4.32T ( 3.36%) - 324 companies
+5. UK             : $  4.00T ( 3.11%) - 185 companies
+
+INEQUALITY METRICS
+--------------------------------------------------------------------------------
+Gini Coefficient: 0.7434 (extreme inequality)
+Largest/Smallest Ratio: 2,453x
+
+================================================================================
